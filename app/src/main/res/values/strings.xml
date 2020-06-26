@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Astropay Weather</string>
+    <string name="error_message_default">Ha ocurrido un error</string>
+    <string name="error_message_permission">Debes conceder permisos para obtener el clima</string>
+    <string name="temperature">%s°</string>
+    <string name="text_get_weather_by_current_location"><u>Obtener clima para mi ubicación actual</u></string>
+    <string name="text_popular_cities">Ciudades populares</string>
+    <string name="temperature_min">Min: %s°</string>
+    <string name="temperature_max">Max: %s°</string>
+    <string name="wind_speed">Viento: %skm/h</string>
+</resources>
