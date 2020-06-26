@@ -8,7 +8,7 @@
     <ImageView
         android:id="@+id/imageViewWeatherState"
         android:layout_width="@dimen/image_weather_state_small"
-        android:layout_height="0dp"
+        android:layout_height="@dimen/dimen_0dp"
         android:layout_marginTop="@dimen/margin_top_small"
         android:layout_marginEnd="@dimen/margin_right"
         android:layout_marginRight="@dimen/margin_right"
