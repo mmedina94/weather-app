@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="primary_title">
+        <item name="android:fontFamily">@font/raleway_regular</item>
+        <item name="android:textSize">@dimen/font_size_primary_title</item>
+    </style>
+
+    <style name="secondary_title">
+        <item name="android:fontFamily">@font/raleway_regular</item>
+        <item name="android:textSize">@dimen/font_size_secondary_title</item>
+    </style>
+
+    <style name="secondary_title_align_start">
+        <item name="android:fontFamily">@font/raleway_regular</item>
+        <item name="android:textSize">@dimen/font_size_secondary_title</item>
+        <item name="android:textAlignment">textStart</item>
+    </style>
+
+    <style name="primary_text">
+        <item name="android:fontFamily">@font/raleway_lightitalic</item>
+        <item name="android:textSize">@dimen/font_size_primary_text</item>
+    </style>
+
+    <style name="text_get_weather_by_current_location">
+        <item name="android:fontFamily">@font/raleway_regular</item>
+        <item name="android:textSize">@dimen/font_size_primary_text</item>
+        <item name="android:textColor">@color/blue</item>
+    </style>
+
+    <style name="text_popular_cities">
+        <item name="android:fontFamily">@font/raleway_regular</item>
+        <item name="android:textSize">@dimen/font_size_secondary_title</item>
+        <item name="android:textColor">@color/blue</item>
+    </style>
+
+    <style name="view_separator">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/gray</item>
+        <item name="android:layout_height">@dimen/view_separator_height</item>
+    </style>
+
+
+</resources>
